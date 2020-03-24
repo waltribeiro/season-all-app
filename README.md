@@ -1,47 +1,37 @@
-# Season-all
+# Season All
   [![GitHub license](https://img.shields.io/badge/license-MIT-blue)](https://github.com/marshdugan)
 
-# Description
+## Table of Contents
+
+  ## [Installation](#Installation) &nbsp;&bull;&nbsp; [Usage](#Usage) &nbsp;&bull;&nbsp; [License](#License) &nbsp;&bull;&nbsp; [Contributing](#Contributing) &nbsp;&bull;&nbsp; [Tests](#Tests) &nbsp;&bull;&nbsp; [Questions](#Questions)
+  
+## Description
 
 This app allows user's to see nearby trails based on their current location.
 
-# Table of Contents
+## Description
 
-  * [Installation](#Installation)
+This app allows user's to see nearby trails based on their current location.
 
-  * [Usage](#Usage)
-
-  * [License](#License)
-
-  * [Contributing](#Contributing)
-
-  * [Tests](#Tests)
-  
-  * [Questions](#Questions)
-
-# Installation
+## Installation
   To install necessary dependencies, run the following command:
-  ~~~
+  ```
   npm i
-  ~~~
+  ```
 
-# Usage
+## Usage
   You user may need a .env file with a session key for salt hashing.
 
-# License
-  This project is licensed under the MIT license.
+## License
+  This project is licensed under the <a href="https://opensource.org/licenses/MIT">MIT license</a>
 
-# Contributing
-  Please create an issue on GitHub.
-
-# Tests
+## Tests
   To run tests, run the following command:
-  ~~~
+  ```
   npm test
-  ~~~
+  ```
+## Questions
+  <img src="public/img/season-all-2-short.png" alt="season-all" width="300px"/>
 
-# Questions
-  <img src="https://avatars2.githubusercontent.com/u/54903099?v=4" alt="avatar" style="border-radius: 16px" width="30"/>
-
-  If you have any questions about the repo, open an issue or contact [marshdugan](https://api.github.com/users/marshdugan) or send me an email at null;
+  If you have any questions about the repo, open an issue or contact [walt ribeiro](https://api.github.com/users/waltribeiro) or send me an email at null;
 
