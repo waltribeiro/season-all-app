@@ -21,15 +21,21 @@ h3 {
   font-size: 48px;
   color: #04542D !important;
   text-shadow: 2px 2px white;
-
-
 }
+
 button {
   border-radius: 20px !important;
   background-color: #04542D !important;
   text-align: center !important;
   font-family: 'Ubuntu', sans-serif !important;
 }
+
+.buttonGithubRepo {
+  border-radius: 20px !important;
+  text-align: center !important;
+  font-family: 'Ubuntu', sans-serif !important;
+}
+
 
 .buttons{
   text-align: center;
@@ -89,8 +95,6 @@ color: white;
 font-family: 'Ubuntu', sans-serif !important;
 position:fixed; 
 bottom:0; 
-/* height: 300px; */
-/* margin: 0px 0px 0px 0px; */
 z-index:100000;
 width: 100%;
 text-align: center;
