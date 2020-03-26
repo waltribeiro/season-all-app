@@ -20,7 +20,7 @@ var imageScript =
         "coordinates": "N32° 59.233' W081° 24.500'",
         "elevation": 207,
         "built": 1930,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -44,7 +44,7 @@ var imageScript =
         "coordinates": "N34° 26.472' W082° 41.932'",
         "elevation": 891,
         "built": 1938,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -200,7 +200,7 @@ var imageScript =
         "coordinates": "N33° 32.012' W109° 08.671'",
         "elevation": 8538,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -211,7 +211,7 @@ var imageScript =
         "coordinates": "N34° 16.169' W110° 11.457'",
         "elevation": 6985,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -223,7 +223,7 @@ var imageScript =
         "coordinates": "N33° 57.390' W109° 07.491'",
         "elevation": 10876,
         "built": 1933,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -235,7 +235,7 @@ var imageScript =
         "coordinates": "N39° 26.304' W074° 37.039'",
         "elevation": 75,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -247,7 +247,7 @@ var imageScript =
         "coordinates": "N31° 56.516' W085° 27.079'",
         "elevation": 680,
         "built": 1941,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -259,7 +259,7 @@ var imageScript =
         "coordinates": "N33° 13.383' W081° 20.483'",
         "elevation": 228,
         "built": 1935,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -270,7 +270,7 @@ var imageScript =
         "coordinates": "N39° 38.604' W074° 38.893'",
         "elevation": 72,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -282,7 +282,7 @@ var imageScript =
         "coordinates": "N30° 43.266' W093° 30.348'",
         "elevation": 170,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -294,7 +294,7 @@ var imageScript =
         "coordinates": "N42° 20.153' W073° 29.169'",
         "elevation": 1726,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -306,7 +306,7 @@ var imageScript =
         "coordinates": "N44° 08.950' W107° 12.147'",
         "elevation": 9395,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -323,17 +323,17 @@ var imageScript =
         "countryNumber": 395
         },
         {
-            "lookout": "Charlton Fire Tower",
-            "forest": "Town of Charlton",
-            "county": "Worcester County",
-            "state": "Massachusetts",
-            "coordinates": "N42° 10.100' W071° 50.317'",
-            "elevation": 574,
-            "built": 1939,
-            "image": "us587.jpg",
-            "stateNumber": 14,
-            "countryNumber": 587
-            },
+        "lookout": "Charlton Fire Tower",
+        "forest": "Town of Charlton",
+        "county": "Worcester County",
+        "state": "Massachusetts",
+        "coordinates": "N42° 10.100' W071° 50.317'",
+        "elevation": 574,
+        "built": 1939,
+        "image": "us587.jpg",
+        "stateNumber": 14,
+        "countryNumber": 587
+        },
         {
         "lookout": null,
         "forest": "Bighorn National Forest",
@@ -342,7 +342,7 @@ var imageScript =
         "coordinates": "N44° 44.553' W107° 22.907'",
         "elevation": 9383,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -354,7 +354,7 @@ var imageScript =
         "coordinates": "N46° 01.564' W114° 03.305'",
         "elevation": 7284,
         "built": 1960,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -366,7 +366,7 @@ var imageScript =
         "coordinates": "N45° 43.150' W114° 24.733'",
         "elevation": 7822,
         "built": 1962,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -378,7 +378,7 @@ var imageScript =
         "coordinates": "N44° 14.638' W103° 44.091'",
         "elevation": 6713,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -402,7 +402,7 @@ var imageScript =
         "coordinates": "N43° 51.941' W103° 31.854'",
         "elevation": 7102,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -414,7 +414,7 @@ var imageScript =
         "coordinates": "N43° 43.451' W104° 02.463'",
         "elevation": 5631,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -426,7 +426,7 @@ var imageScript =
         "coordinates": "N41° 22.191' W074° 06.053'",
         "elevation": 398,
         "built": 1933,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -438,7 +438,7 @@ var imageScript =
         "coordinates": "N44° 52.099' W115° 23.338'",
         "elevation": 8844,
         "built": 1933,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -450,7 +450,7 @@ var imageScript =
         "coordinates": "N39° 14.170' W086° 13.266'",
         "elevation": 981,
         "built": 1930,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -462,7 +462,7 @@ var imageScript =
         "coordinates": "N39° 06.271' W074° 52.699'",
         "elevation": 13,
         "built": 1944,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -474,7 +474,7 @@ var imageScript =
         "coordinates": "N36° 03.216' W084° 45.162'",
         "elevation": 2070,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -486,7 +486,7 @@ var imageScript =
         "coordinates": "N40° 49.630' W077° 59.260'",
         "elevation": 1773,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -498,7 +498,7 @@ var imageScript =
         "coordinates": "N33° 04.884' W079° 27.582'",
         "elevation": 25,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -510,7 +510,7 @@ var imageScript =
         "coordinates": "N34° 40.800' W084° 00.583'",
         "elevation": 3114,
         "built": 1949,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -522,7 +522,7 @@ var imageScript =
         "coordinates": "N34° 50.816' W083° 30.083'",
         "elevation": 3315,
         "built": 1941,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -534,7 +534,7 @@ var imageScript =
         "coordinates": "N34° 48.133' W084° 12.849'",
         "elevation": 3060,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -546,7 +546,7 @@ var imageScript =
         "coordinates": "N34° 16.916' W085° 41.372'",
         "elevation": 1127,
         "built": 1960,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -558,7 +558,7 @@ var imageScript =
         "coordinates": "N42° 57.302' W072° 22.871'",
         "elevation": 1294,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -570,7 +570,7 @@ var imageScript =
         "coordinates": "N32° 10.166' W088° 09.266'",
         "elevation": 173,
         "built": 1954,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -581,7 +581,7 @@ var imageScript =
         "coordinates": "N34° 14.814' W105° 47.280'",
         "elevation": 8615,
         "built": 1933,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -593,7 +593,7 @@ var imageScript =
         "coordinates": "N35° 21.818' W108° 30.571'",
         "elevation": 8137,
         "built": 1965,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -605,7 +605,7 @@ var imageScript =
         "coordinates": "N28° 44.759' W082° 33.225'",
         "elevation": 22,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -617,7 +617,7 @@ var imageScript =
         "coordinates": "N33° 17.867' W085° 50.557'",
         "elevation": 1384,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -629,7 +629,7 @@ var imageScript =
         "coordinates": "N41° 41.110' W070° 21.460'",
         "elevation": 66,
         "built": 1947,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -641,7 +641,7 @@ var imageScript =
         "coordinates": "N46° 25.867' W114° 55.483'",
         "elevation": 7184,
         "built": 1951,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -653,7 +653,7 @@ var imageScript =
         "coordinates": "N46° 41.660' W115° 16.674'",
         "elevation": 6457,
         "built": 1955,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -665,7 +665,7 @@ var imageScript =
         "coordinates": "N46° 21.044' W115° 40.258'",
         "elevation": 4731,
         "built": 1960,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -677,7 +677,7 @@ var imageScript =
         "coordinates": "N46° 21.508' W114° 54.950'",
         "elevation": 7372,
         "built": 1935,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -689,7 +689,7 @@ var imageScript =
         "coordinates": "N46° 52.733' W115° 33.100'",
         "elevation": 7077,
         "built": 1972,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -701,7 +701,7 @@ var imageScript =
         "coordinates": "N46° 26.054' W115° 13.215'",
         "elevation": 6632,
         "built": 1950,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -713,7 +713,7 @@ var imageScript =
         "coordinates": "N32° 44.000' W116° 35.000'",
         "elevation": 4805,
         "built": 1964,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -737,7 +737,7 @@ var imageScript =
         "coordinates": "N35° 54.050' W083° 17.867'",
         "elevation": 3617,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -749,7 +749,7 @@ var imageScript =
         "coordinates": "N34° 50.058' W111° 32.172'",
         "elevation": 7385,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -761,7 +761,7 @@ var imageScript =
         "coordinates": "N34° 43.500' W111° 32.950'",
         "elevation": 7301,
         "built": 1961,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -773,7 +773,7 @@ var imageScript =
         "coordinates": "N35° 14.460' W111° 35.808'",
         "elevation": 9224,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -785,7 +785,7 @@ var imageScript =
         "coordinates": "N34° 21.000' W087° 28.200'",
         "elevation": 642,
         "built": 1971,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -797,7 +797,7 @@ var imageScript =
         "coordinates": "N45° 05.450' W071° 10.856'",
         "elevation": 3360,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -809,7 +809,7 @@ var imageScript =
         "coordinates": "N31° 54.965' W109° 16.407'",
         "elevation": 8703,
         "built": 1935,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -821,7 +821,7 @@ var imageScript =
         "coordinates": "N31° 49.495' W109° 18.875'",
         "elevation": 9480,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -833,7 +833,7 @@ var imageScript =
         "coordinates": "N32° 26.089' W110° 47.379'",
         "elevation": 8720,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -857,7 +857,7 @@ var imageScript =
         "coordinates": "N31° 25.241' W111° 08.802'",
         "elevation": 6070,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -869,7 +869,7 @@ var imageScript =
         "coordinates": "N43° 57.950' W114° 44.850'",
         "elevation": 9777,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -881,7 +881,7 @@ var imageScript =
         "coordinates": "N42° 27.872' W072° 47.015'",
         "elevation": 1676,
         "built": 1952,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -893,7 +893,7 @@ var imageScript =
         "coordinates": "N30° 41.361' W089° 03.835'",
         "elevation": 202,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -917,7 +917,7 @@ var imageScript =
         "coordinates": "N41° 45.613' W070° 02.491'",
         "elevation": 102,
         "built": 1949,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -929,7 +929,7 @@ var imageScript =
         "coordinates": "N44° 32.029' W121° 36.518'",
         "elevation": 4659,
         "built": 1961,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -941,7 +941,7 @@ var imageScript =
         "coordinates": "N44° 23.990' W121° 38.191'",
         "elevation": 6360,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -953,7 +953,7 @@ var imageScript =
         "coordinates": "N43° 55.071' W121° 21.380'",
         "elevation": 4958,
         "built": 1998,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -965,7 +965,7 @@ var imageScript =
         "coordinates": "N43° 40.013' W120° 59.756'",
         "elevation": 6371,
         "built": 1995,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -977,7 +977,7 @@ var imageScript =
         "coordinates": "N43° 31.536' W123° 05.430'",
         "elevation": 3239,
         "built": 1963,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1001,7 +1001,7 @@ var imageScript =
         "coordinates": "N43° 16.085' W123° 34.804'",
         "elevation": 2602,
         "built": 1953,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1013,7 +1013,7 @@ var imageScript =
         "coordinates": "N38° 37.753' W120° 16.664'",
         "elevation": 7629,
         "built": 1961,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1025,7 +1025,7 @@ var imageScript =
         "coordinates": "N38° 41.662' W120° 30.929'",
         "elevation": 5046,
         "built": 1931,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1037,7 +1037,7 @@ var imageScript =
         "coordinates": "N38° 54.244' W120° 42.313'",
         "elevation": 4592,
         "built": 1965,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1049,7 +1049,7 @@ var imageScript =
         "coordinates": "N43° 57.610' W074° 12.590'",
         "elevation": 2690,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1061,7 +1061,7 @@ var imageScript =
         "coordinates": "N35° 39.435' W085° 20.874'",
         "elevation": 1713,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1073,7 +1073,7 @@ var imageScript =
         "coordinates": "N37° 55.650' W080° 58.216'",
         "elevation": 3335,
         "built": 1935,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1097,7 +1097,7 @@ var imageScript =
         "coordinates": "N33° 52.167' W079° 49.233'",
         "elevation": 91,
         "built": 2004,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1109,7 +1109,7 @@ var imageScript =
         "coordinates": null,
         "elevation": null,
         "built": 1940,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1121,7 +1121,7 @@ var imageScript =
         "coordinates": "N33° 10.270' W079° 33.716'",
         "elevation": 46,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1133,7 +1133,7 @@ var imageScript =
         "coordinates": "N44° 32.570' W074° 30.276'",
         "elevation": 2500,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1145,7 +1145,7 @@ var imageScript =
         "coordinates": "N42° 15.837' W121° 02.915'",
         "elevation": 6442,
         "built": 1960,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1157,7 +1157,7 @@ var imageScript =
         "coordinates": "N37° 00.786' W119° 27.136'",
         "elevation": 3599,
         "built": 1934,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1169,7 +1169,7 @@ var imageScript =
         "coordinates": "N43° 10.860' W074° 30.948'",
         "elevation": 2200,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1181,7 +1181,7 @@ var imageScript =
         "coordinates": "N38° 09.984' W079° 18.836'",
         "elevation": 4421,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1193,7 +1193,7 @@ var imageScript =
         "coordinates": "N46° 41.070' W121° 54.000'",
         "elevation": 5288,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1205,7 +1205,7 @@ var imageScript =
         "coordinates": "N34° 06.179' W108° 29.652'",
         "elevation": 8847,
         "built": 1934,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1217,7 +1217,7 @@ var imageScript =
         "coordinates": "N48° 29.334' W113° 46.139'",
         "elevation": 7062,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1229,7 +1229,7 @@ var imageScript =
         "coordinates": "N48° 44.854' W113° 52.430'",
         "elevation": 6810,
         "built": 1930,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1241,7 +1241,7 @@ var imageScript =
         "coordinates": "N36° 17.441' W112° 12.705'",
         "elevation": 8241,
         "built": 1940,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1253,7 +1253,7 @@ var imageScript =
         "coordinates": "N39° 04.765' W107° 50.637'",
         "elevation": 11196,
         "built": 1912,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1265,7 +1265,7 @@ var imageScript =
         "coordinates": "N47° 13.741' W093° 33.567'",
         "elevation": 1276,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1277,7 +1277,7 @@ var imageScript =
         "coordinates": "N35° 26.097' W085° 47.788'",
         "elevation": 2031,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1289,7 +1289,7 @@ var imageScript =
         "coordinates": "N36° 36.033' W078° 58.867'",
         "elevation": 572,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1301,7 +1301,7 @@ var imageScript =
         "coordinates": "N35° 54.408' W077° 16.164'",
         "elevation": 78,
         "built": 1936,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1313,7 +1313,7 @@ var imageScript =
         "coordinates": "N36° 25.383' W083° 11.817'",
         "elevation": 2585,
         "built": 1937,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1325,7 +1325,7 @@ var imageScript =
         "coordinates": "N27° 11.139' W081° 20.310'",
         "elevation": 214,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1337,7 +1337,7 @@ var imageScript =
         "coordinates": "N28° 04.179' W082° 28.068'",
         "elevation": 52,
         "built": 1937,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1349,7 +1349,7 @@ var imageScript =
         "coordinates": "N39° 24.337' W082° 31.859'",
         "elevation": 998,
         "built": 1934,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1361,7 +1361,7 @@ var imageScript =
         "coordinates": "N39° 02.077' W086° 19.279'",
         "elevation": 895,
         "built": 1936,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1373,7 +1373,7 @@ var imageScript =
         "coordinates": "N40° 40.143' W123° 52.963'",
         "elevation": 3729,
         "built": 0.979757085020243,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1385,7 +1385,7 @@ var imageScript =
         "coordinates": "N47° 21.538' W115° 45.829'",
         "elevation": 5241,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1397,7 +1397,7 @@ var imageScript =
         "coordinates": "N48° 58.375' W117° 00.104'",
         "elevation": 6590,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1409,7 +1409,7 @@ var imageScript =
         "coordinates": "N48° 20.958' W116° 45.383'",
         "elevation": 5550,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1421,7 +1421,7 @@ var imageScript =
         "coordinates": "N47° 11.160' W095° 11.280'",
         "elevation": 1662,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1433,7 +1433,7 @@ var imageScript =
         "coordinates": "N34° 49.931' W085° 45.391'",
         "elevation": 1588,
         "built": 1955,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1445,7 +1445,7 @@ var imageScript =
         "coordinates": "N30° 32.583' W082° 20.583'",
         "elevation": 133,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1457,7 +1457,7 @@ var imageScript =
         "coordinates": "N36° 25.609' W081° 52.000'",
         "elevation": 3885,
         "built": 1948,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1469,7 +1469,7 @@ var imageScript =
         "coordinates": "N48° 24.394' W092° 47.231'",
         "elevation": 1372,
         "built": 1935,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1481,7 +1481,7 @@ var imageScript =
         "coordinates": "N35° 57.464' W111° 57.250'",
         "elevation": 7529,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1493,7 +1493,7 @@ var imageScript =
         "coordinates": "N36° 35.610' W112° 20.077'",
         "elevation": 7894,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1505,7 +1505,7 @@ var imageScript =
         "coordinates": "N41° 36.430' W071° 46.388'",
         "elevation": 559,
         "built": 1938,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1517,7 +1517,7 @@ var imageScript =
         "coordinates": "N41° 14.729' W123° 06.146'",
         "elevation": 6483,
         "built": 1958,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1529,7 +1529,7 @@ var imageScript =
         "coordinates": "N41° 24.062' W123° 12.868'",
         "elevation": 7228,
         "built": 1955,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1541,7 +1541,7 @@ var imageScript =
         "coordinates": "N41° 16.340' W123° 11.280'",
         "elevation": 5917,
         "built": 1934,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1553,7 +1553,7 @@ var imageScript =
         "coordinates": "N41° 47.723' W122° 09.353'",
         "elevation": 7789,
         "built": 1940,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1565,7 +1565,7 @@ var imageScript =
         "coordinates": "N48° 35.954' W093° 10.415'",
         "elevation": 1180,
         "built": 1939,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1577,7 +1577,7 @@ var imageScript =
         "coordinates": "N48° 01.878' W093° 14.038'",
         "elevation": 1302,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1589,7 +1589,7 @@ var imageScript =
         "coordinates": "N48° 04.776' W114° 59.356'",
         "elevation": 6651,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1601,7 +1601,7 @@ var imageScript =
         "coordinates": "N47° 54.811' W115° 54.405'",
         "elevation": 6029,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1613,7 +1613,7 @@ var imageScript =
         "coordinates": "N48° 40.986' W115° 12.140'",
         "elevation": 6942,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1625,7 +1625,7 @@ var imageScript =
         "coordinates": "N48° 11.475' W115° 31.843'",
         "elevation": 3783,
         "built": 1963,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1649,7 +1649,7 @@ var imageScript =
         "coordinates": "N29° 59.927' W083° 03.434'",
         "elevation": 64,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1661,7 +1661,7 @@ var imageScript =
         "coordinates": "N38° 52.945' W120° 03.278'",
         "elevation": 7256,
         "built": 1914,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1673,7 +1673,7 @@ var imageScript =
         "coordinates": "N37° 32.791' W081° 33.496'",
         "elevation": 2360,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1685,7 +1685,7 @@ var imageScript =
         "coordinates": "N36° 36.767' W087° 58.834'",
         "elevation": 611,
         "built": 1954,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1721,7 +1721,7 @@ var imageScript =
         "coordinates": "N41° 09.326' W120° 33.850'",
         "elevation": 7377,
         "built": 1966,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1733,7 +1733,7 @@ var imageScript =
         "coordinates": "N40° 50.409' W121° 10.559'",
         "elevation": 6045,
         "built": 1934,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1745,7 +1745,7 @@ var imageScript =
         "coordinates": "N40° 35.525' W120° 54.613'",
         "elevation": 7675,
         "built": 1975,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1757,7 +1757,7 @@ var imageScript =
         "coordinates": "N40° 14.344' W121° 01.964'",
         "elevation": 7474,
         "built": 1934,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1769,7 +1769,7 @@ var imageScript =
         "coordinates": "N34° 02.633' W080° 07.250'",
         "elevation": 155,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1781,7 +1781,7 @@ var imageScript =
         "coordinates": "N42° 27.062' W074° 21.174'",
         "elevation": 2626,
         "built": 1948,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1793,7 +1793,7 @@ var imageScript =
         "coordinates": "N35° 31.350' W087° 36.078'",
         "elevation": 992,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1805,7 +1805,7 @@ var imageScript =
         "coordinates": "N33° 48.852' W081° 06.155'",
         "elevation": 499,
         "built": 1936,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1817,7 +1817,7 @@ var imageScript =
         "coordinates": "N33° 55.700' W081° 29.767'",
         "elevation": 682,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1829,7 +1829,7 @@ var imageScript =
         "coordinates": "N37° 27.548' W114° 28.083'",
         "elevation": 7431,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1841,7 +1841,7 @@ var imageScript =
         "coordinates": "N45° 24.035' W089° 28.942'",
         "elevation": 1948,
         "built": 1932,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1853,7 +1853,7 @@ var imageScript =
         "coordinates": "N36° 07.349' W106° 33.224'",
         "elevation": 9971,
         "built": 1950,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1865,7 +1865,7 @@ var imageScript =
         "coordinates": "N47° 32.516' W115° 11.284'",
         "elevation": 6957,
         "built": 1982,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1877,7 +1877,7 @@ var imageScript =
         "coordinates": "N46° 22.273' W114° 27.862'",
         "elevation": 7826,
         "built": 1961,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1889,7 +1889,7 @@ var imageScript =
         "coordinates": "N42° 07.433' W071° 12.866'",
         "elevation": 145,
         "built": 1966,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1913,7 +1913,7 @@ var imageScript =
         "coordinates": "N34° 04.956' W117° 46.201'",
         "elevation": 1020,
         "built": 1939,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1925,7 +1925,7 @@ var imageScript =
         "coordinates": "N37° 01.145' W121° 05.179'",
         "elevation": 1700,
         "built": 1947,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1937,7 +1937,7 @@ var imageScript =
         "coordinates": "N38° 01.667' W078° 00.812'",
         "elevation": 486,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1949,7 +1949,7 @@ var imageScript =
         "coordinates": "N42° 10.884' W072° 25.837'",
         "elevation": 700,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1961,7 +1961,7 @@ var imageScript =
         "coordinates": null,
         "elevation": null,
         "built": 1930,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1973,7 +1973,7 @@ var imageScript =
         "coordinates": "N31° 41.966' W086° 14.400'",
         "elevation": 447,
         "built": 1948,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1985,7 +1985,7 @@ var imageScript =
         "coordinates": "N38° 25.644' W078° 20.228'",
         "elevation": 2140,
         "built": 1930,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -1997,7 +1997,7 @@ var imageScript =
         "coordinates": "N44° 17.612' W119° 02.559'",
         "elevation": 5902,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2009,7 +2009,7 @@ var imageScript =
         "coordinates": "N44° 02.548' W118° 25.154'",
         "elevation": 6456,
         "built": 1963,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2021,7 +2021,7 @@ var imageScript =
         "coordinates": "N44° 22.638' W119° 27.079'",
         "elevation": 6912,
         "built": 1960,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2033,7 +2033,7 @@ var imageScript =
         "coordinates": "N44° 32.402' W119° 08.320'",
         "elevation": 6235,
         "built": 1936,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2045,7 +2045,7 @@ var imageScript =
         "coordinates": "N42° 28.257' W124° 09.738'",
         "elevation": 3644,
         "built": 1947,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2057,7 +2057,7 @@ var imageScript =
         "coordinates": "N32° 08.760' W087° 54.741'",
         "elevation": 305,
         "built": 1951,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2069,7 +2069,7 @@ var imageScript =
         "coordinates": "N34° 03.828' W087° 45.108'",
         "elevation": 857,
         "built": 1940,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2081,7 +2081,7 @@ var imageScript =
         "coordinates": "N36° 57.136' W092° 06.676'",
         "elevation": 1442,
         "built": 1935,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2093,7 +2093,7 @@ var imageScript =
         "coordinates": "N39° 17.088' W086° 43.435'",
         "elevation": 770,
         "built": 1935,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2104,7 +2104,7 @@ var imageScript =
         "coordinates": "N33° 26.721' W082° 32.542'",
         "elevation": 519,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2116,7 +2116,7 @@ var imageScript =
         "coordinates": "N42° 18.679' W105° 22.544'",
         "elevation": 7885,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2128,7 +2128,7 @@ var imageScript =
         "coordinates": "N41° 27.123' W106° 31.061'",
         "elevation": 10788,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2140,7 +2140,7 @@ var imageScript =
         "coordinates": "N39° 50.770' W122° 57.872'",
         "elevation": 6891,
         "built": 1932,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2152,7 +2152,7 @@ var imageScript =
         "coordinates": "N44° 58.781' W093° 10.400'",
         "elevation": 918,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2164,7 +2164,7 @@ var imageScript =
         "coordinates": "N41° 24.950' W121° 06.553'",
         "elevation": 6067,
         "built": 0.0004897551224387806,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2176,7 +2176,7 @@ var imageScript =
         "coordinates": "N41° 49.265' W073° 17.796'",
         "elevation": 1659,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2188,7 +2188,7 @@ var imageScript =
         "coordinates": "N40° 36.283' W082° 18.275'",
         "elevation": 1360,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2200,7 +2200,7 @@ var imageScript =
         "coordinates": "N38° 37.009' W079° 55.775'",
         "elevation": 4432,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2212,7 +2212,7 @@ var imageScript =
         "coordinates": "N31° 46.800' W087° 19.800'",
         "elevation": 209,
         "built": 1941,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2224,7 +2224,7 @@ var imageScript =
         "coordinates": "N34° 43.883' W086° 30.270'",
         "elevation": 1598,
         "built": 1968,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2236,7 +2236,7 @@ var imageScript =
         "coordinates": "N41° 00.520' W074° 32.433'",
         "elevation": 1341,
         "built": 1937,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2248,7 +2248,7 @@ var imageScript =
         "coordinates": "N37° 55.745' W122° 34.669'",
         "elevation": 2572,
         "built": 1934,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2260,7 +2260,7 @@ var imageScript =
         "coordinates": "N48° 12.415' W121° 01.731'",
         "elevation": 6129,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2272,7 +2272,7 @@ var imageScript =
         "coordinates": "N47° 25.028' W121° 28.876'",
         "elevation": 5607,
         "built": 1955,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2284,7 +2284,7 @@ var imageScript =
         "coordinates": "N47° 10.157' W121° 29.422'",
         "elevation": 5409,
         "built": 1950,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2296,7 +2296,7 @@ var imageScript =
         "coordinates": "N48° 29.720' W121° 12.292'",
         "elevation": 6732,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2320,7 +2320,7 @@ var imageScript =
         "coordinates": "N41° 58.660' W071° 33.260'",
         "elevation": 569,
         "built": 1926,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2332,7 +2332,7 @@ var imageScript =
         "coordinates": "N35° 03.143' W083° 28.641'",
         "elevation": 5115,
         "built": 1951,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2344,7 +2344,7 @@ var imageScript =
         "coordinates": "N39° 14.743' W120° 57.933'",
         "elevation": 3908,
         "built": 1926,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2356,7 +2356,7 @@ var imageScript =
         "coordinates": "N45° 53.230' W115° 19.902'",
         "elevation": 6827,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2368,7 +2368,7 @@ var imageScript =
         "coordinates": "N46° 00.017' W115° 14.683'",
         "elevation": 6810,
         "built": 1951,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2380,7 +2380,7 @@ var imageScript =
         "coordinates": "N45° 22.117' W116° 29.683'",
         "elevation": 8429,
         "built": 1978,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2392,7 +2392,7 @@ var imageScript =
         "coordinates": "N44° 43.336' W067° 40.093'",
         "elevation": 430,
         "built": 1940,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2404,7 +2404,7 @@ var imageScript =
         "coordinates": "N37° 05.967' W077° 58.528'",
         "elevation": 451,
         "built": 1942,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2416,7 +2416,7 @@ var imageScript =
         "coordinates": "N45° 06.343' W088° 19.059'",
         "elevation": 877,
         "built": 1939,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2428,7 +2428,7 @@ var imageScript =
         "coordinates": "N39° 59.712' W082° 59.323'",
         "elevation": 827,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2440,7 +2440,7 @@ var imageScript =
         "coordinates": "N48° 09.840' W119° 54.018'",
         "elevation": 3760,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2452,7 +2452,7 @@ var imageScript =
         "coordinates": "N48° 15.036' W120° 00.132'",
         "elevation": 5008,
         "built": 1954,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2464,7 +2464,7 @@ var imageScript =
         "coordinates": "N45° 50.138' W089° 36.618'",
         "elevation": 1735,
         "built": 1939,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2476,7 +2476,7 @@ var imageScript =
         "coordinates": "N45° 48.532' W089° 17.971'",
         "elevation": 1721,
         "built": 1936,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2488,7 +2488,7 @@ var imageScript =
         "coordinates": "N46° 10.797' W088° 41.904'",
         "elevation": 1683,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2500,7 +2500,7 @@ var imageScript =
         "coordinates": "N33° 20.070' W116° 55.134'",
         "elevation": 5406,
         "built": 1948,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2524,7 +2524,7 @@ var imageScript =
         "coordinates": "N36° 41.571' W080° 13.484'",
         "elevation": 3193,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2536,7 +2536,7 @@ var imageScript =
         "coordinates": "N45° 24.078' W115° 54.235'",
         "elevation": 7667,
         "built": 1934,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2548,7 +2548,7 @@ var imageScript =
         "coordinates": "N32° 39.583' W087° 16.500'",
         "elevation": 436,
         "built": 1949,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2560,7 +2560,7 @@ var imageScript =
         "coordinates": "N35° 45.258' W087° 50.718'",
         "elevation": 823,
         "built": 1950,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2572,7 +2572,7 @@ var imageScript =
         "coordinates": "N36° 01.403' W082° 42.920'",
         "elevation": 4844,
         "built": 1928,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2584,7 +2584,7 @@ var imageScript =
         "coordinates": "N39° 39.114' W121° 27.786'",
         "elevation": 3005,
         "built": 1925,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2596,7 +2596,7 @@ var imageScript =
         "coordinates": "N39° 57.143' W120° 45.740'",
         "elevation": 7151,
         "built": 1934,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2608,7 +2608,7 @@ var imageScript =
         "coordinates": "N40° 06.716' W120° 19.217'",
         "elevation": 6735,
         "built": 1935,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2620,7 +2620,7 @@ var imageScript =
         "coordinates": "N27° 58.668' W081° 29.739'",
         "elevation": 103,
         "built": 1939,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2632,7 +2632,7 @@ var imageScript =
         "coordinates": "N39° 26.650' W079° 36.417'",
         "elevation": 2999,
         "built": 1946,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2644,7 +2644,7 @@ var imageScript =
         "coordinates": "N37° 12.234' W078° 21.530'",
         "elevation": 727,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2656,7 +2656,7 @@ var imageScript =
         "coordinates": "N44° 59.967' W088° 40.414'",
         "elevation": 1296,
         "built": 1934,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2668,7 +2668,7 @@ var imageScript =
         "coordinates": "N36° 38.574' W080° 57.565'",
         "elevation": 2565,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2680,7 +2680,7 @@ var imageScript =
         "coordinates": "N42° 47.598' W073° 24.864'",
         "elevation": 1760,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2692,7 +2692,7 @@ var imageScript =
         "coordinates": "N33° 56.983' W080° 42.100'",
         "elevation": 246,
         "built": 1936,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2704,7 +2704,7 @@ var imageScript =
         "coordinates": "N42° 48.427' W122° 33.320'",
         "elevation": 4470,
         "built": 1956,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2716,7 +2716,7 @@ var imageScript =
         "coordinates": "N40° 50.568' W106° 55.771'",
         "elevation": 10759,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2728,7 +2728,7 @@ var imageScript =
         "coordinates": "N36° 59.713' W082° 14.730'",
         "elevation": 3028,
         "built": 1939,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2740,7 +2740,7 @@ var imageScript =
         "coordinates": "N47° 48.820' W092° 12.921'",
         "elevation": 1627,
         "built": 1934,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2752,7 +2752,7 @@ var imageScript =
         "coordinates": "N45° 33.010' W113° 58.870'",
         "elevation": 6280,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2764,7 +2764,7 @@ var imageScript =
         "coordinates": "N44° 57.727' W114° 39.324'",
         "elevation": 9127,
         "built": 1962,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2776,7 +2776,7 @@ var imageScript =
         "coordinates": "N33° 49.409' W116° 45.376'",
         "elevation": 7635,
         "built": 1962,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2788,7 +2788,7 @@ var imageScript =
         "coordinates": "N33° 34.482' W110° 22.727'",
         "elevation": 6606,
         "built": 1930,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2800,7 +2800,7 @@ var imageScript =
         "coordinates": "N37° 29.828' W108° 11.012'",
         "elevation": 9830,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2812,7 +2812,7 @@ var imageScript =
         "coordinates": "N37° 46.024' W108° 34.279'",
         "elevation": 9262,
         "built": 1970,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2824,7 +2824,7 @@ var imageScript =
         "coordinates": "N37° 10.284' W106° 59.820'",
         "elevation": 8165,
         "built": 1963,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2835,7 +2835,7 @@ var imageScript =
         "coordinates": "N35° 34.252' W105° 28.401'",
         "elevation": 9300,
         "built": 1959,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2847,7 +2847,7 @@ var imageScript =
         "coordinates": "N35° 39.120' W105° 48.000'",
         "elevation": 10220,
         "built": 1940,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2859,7 +2859,7 @@ var imageScript =
         "coordinates": "N43° 22.603' W073° 58.254'",
         "elevation": 2680,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2871,7 +2871,7 @@ var imageScript =
         "coordinates": "N45° 41.598' W091° 20.865'",
         "elevation": 1765,
         "built": 1934,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2883,7 +2883,7 @@ var imageScript =
         "coordinates": "N46° 00.127' W091° 24.449'",
         "elevation": 1535,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2895,7 +2895,7 @@ var imageScript =
         "coordinates": "N40° 36.516' W076° 27.732'",
         "elevation": 1658,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2907,7 +2907,7 @@ var imageScript =
         "coordinates": "N35° 51.138' W118° 30.108'",
         "elevation": 7490,
         "built": 1950,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2919,7 +2919,7 @@ var imageScript =
         "coordinates": "N36° 01.182' W118° 15.186'",
         "elevation": 9339,
         "built": 1954,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2931,7 +2931,7 @@ var imageScript =
         "coordinates": "N36° 48.242' W119° 07.125'",
         "elevation": 5063,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2943,7 +2943,7 @@ var imageScript =
         "coordinates": "N40° 53.005' W121° 59.905'",
         "elevation": 3789,
         "built": 1977,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2955,7 +2955,7 @@ var imageScript =
         "coordinates": "N40° 49.959' W123° 27.080'",
         "elevation": 5169,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2967,7 +2967,7 @@ var imageScript =
         "coordinates": "N41° 20.795' W121° 53.464'",
         "elevation": 6516,
         "built": 1939,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2979,7 +2979,7 @@ var imageScript =
         "coordinates": "N40° 53.817' W122° 14.727'",
         "elevation": 3451,
         "built": 1949,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -2991,7 +2991,7 @@ var imageScript =
         "coordinates": "N37° 06.233' W119° 12.350'",
         "elevation": 7828,
         "built": 1934,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -3003,7 +3003,7 @@ var imageScript =
         "coordinates": "N37° 16.319' W119° 33.001'",
         "elevation": 4634,
         "built": 1934,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -3015,7 +3015,7 @@ var imageScript =
         "coordinates": "N37° 18.813' W119° 41.156'",
         "elevation": 4547,
         "built": 1934,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -3027,7 +3027,7 @@ var imageScript =
         "coordinates": "N41° 18.086' W121° 43.140'",
         "elevation": 5835,
         "built": 1975,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -3039,7 +3039,7 @@ var imageScript =
         "coordinates": "N42° 01.048' W123° 27.257'",
         "elevation": 6169,
         "built": 1953,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -3051,7 +3051,7 @@ var imageScript =
         "coordinates": "N47° 48.767' W117° 30.646'",
         "elevation": 3094,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -3063,7 +3063,7 @@ var imageScript =
         "coordinates": "N38° 20.523' W120° 21.894'",
         "elevation": 6071,
         "built": 1966,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -3075,7 +3075,7 @@ var imageScript =
         "coordinates": "N38° 05.179' W120° 23.236'",
         "elevation": 3405,
         "built": 1930,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -3099,7 +3099,7 @@ var imageScript =
         "coordinates": "N42° 08.522' W072° 13.455'",
         "elevation": 1202,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -3111,7 +3111,7 @@ var imageScript =
         "coordinates": "N41° 11.270' W074° 45.988'",
         "elevation": 1509,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -3123,7 +3123,7 @@ var imageScript =
         "coordinates": "N43° 19.877' W071° 06.984'",
         "elevation": 1357,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -3135,7 +3135,7 @@ var imageScript =
         "coordinates": "N37° 46.410' W080° 42.317'",
         "elevation": 3923,
         "built": 1937,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -3147,7 +3147,7 @@ var imageScript =
         "coordinates": "N34° 40.450' W081° 24.883'",
         "elevation": 657,
         "built": 1936,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -3171,7 +3171,7 @@ var imageScript =
         "coordinates": "N34° 52.850' W083° 05.917'",
         "elevation": 2021,
         "built": 1935,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -3183,7 +3183,7 @@ var imageScript =
         "coordinates": "N34° 48.300' W083° 14.267'",
         "elevation": 2117,
         "built": 1935,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -3195,7 +3195,7 @@ var imageScript =
         "coordinates": "N33° 55.367' W082° 08.567'",
         "elevation": 519,
         "built": 1940,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -3207,7 +3207,7 @@ var imageScript =
         "coordinates": "N39° 48.443' W074° 35.363'",
         "elevation": 179,
         "built": 1950,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -3219,7 +3219,7 @@ var imageScript =
         "coordinates": "N33° 17.867' W086° 04.466'",
         "elevation": 1918,
         "built": 1936,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -3231,7 +3231,7 @@ var imageScript =
         "coordinates": "N44° 30.306' W111° 14.706'",
         "elevation": 6854,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -3243,7 +3243,7 @@ var imageScript =
         "coordinates": "N36° 51.217' W106° 46.498'",
         "elevation": 8883,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -3255,7 +3255,7 @@ var imageScript =
         "coordinates": "N39° 55.628' W122° 38.514'",
         "elevation": 3715,
         "built": 1963,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -3267,7 +3267,7 @@ var imageScript =
         "coordinates": "N36° 52.280' W081° 58.710'",
         "elevation": 4208,
         "built": 1939,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -3278,7 +3278,7 @@ var imageScript =
         "coordinates": "N33° 48.731' W110° 54.457'",
         "elevation": 7728,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -3290,7 +3290,7 @@ var imageScript =
         "coordinates": "N42° 05.050' W072° 42.300'",
         "elevation": 580,
         "built": 1959,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -3302,7 +3302,7 @@ var imageScript =
         "coordinates": "N42° 38.467' W071° 06.416'",
         "elevation": 400,
         "built": 1970,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -3314,7 +3314,7 @@ var imageScript =
         "coordinates": "N41° 35.882' W070° 37.059'",
         "elevation": 112,
         "built": 1947,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -3326,7 +3326,7 @@ var imageScript =
         "coordinates": "N42° 03.167' W070° 52.583'",
         "elevation": 153,
         "built": 1969,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -3338,7 +3338,7 @@ var imageScript =
         "coordinates": "N42° 30.283' W071° 33.400'",
         "elevation": 584,
         "built": 1969,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -3350,7 +3350,7 @@ var imageScript =
         "coordinates": "N42° 03.883' W071° 34.417'",
         "elevation": 554,
         "built": 1955,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -3374,7 +3374,7 @@ var imageScript =
         "coordinates": "N41° 53.342' W070° 53.402'",
         "elevation": 167,
         "built": 1966,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -3386,7 +3386,7 @@ var imageScript =
         "coordinates": "N45° 41.039' W118° 06.189'",
         "elevation": 5277,
         "built": 1959,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -3398,7 +3398,7 @@ var imageScript =
         "coordinates": "N43° 20.924' W122° 33.776'",
         "elevation": 5284,
         "built": 1955,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -3422,7 +3422,7 @@ var imageScript =
         "coordinates": "N34° 41.632' W085° 16.193'",
         "elevation": 1141,
         "built": 1930,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -3434,7 +3434,7 @@ var imageScript =
         "coordinates": "N37° 55.457' W079° 51.117'",
         "elevation": 4249,
         "built": 1934,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -3482,7 +3482,7 @@ var imageScript =
         "coordinates": "N43° 20.183' W088° 16.643'",
         "elevation": 1223,
         "built": 1935,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -3494,7 +3494,7 @@ var imageScript =
         "coordinates": "N33° 37.492' W109° 41.193'",
         "elevation": 8086,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -3506,7 +3506,7 @@ var imageScript =
         "coordinates": "N44° 05.316' W092° 00.666'",
         "elevation": 1029,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -3518,7 +3518,7 @@ var imageScript =
         "coordinates": "N44° 48.305' W122° 05.004'",
         "elevation": 4477,
         "built": 1934,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -3530,7 +3530,7 @@ var imageScript =
         "coordinates": "N44° 00.318' W122° 15.284'",
         "elevation": 5337,
         "built": 1957,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -3542,7 +3542,7 @@ var imageScript =
         "coordinates": "N40° 12.094' W075° 48.650'",
         "elevation": 998,
         "built": 1935,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -3554,7 +3554,7 @@ var imageScript =
         "coordinates": "N42° 42.473' W121° 43.052'",
         "elevation": 6040,
         "built": 1936,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -3566,7 +3566,7 @@ var imageScript =
         "coordinates": "N34° 11.523' W087° 36.935'",
         "elevation": 930,
         "built": null,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         },
@@ -3578,18 +3578,16 @@ var imageScript =
         "coordinates": "N39° 17.394' W082° 22.213'",
         "elevation": 1046,
         "built": 1929,
-        "image": "us.jpg",
+        "image": "",
         "stateNumber": null,
         "countryNumber": null
         }
     ]
 
-// for (var x = 0; x < imageScript.length; x++) {
-//     if (imageScript[x].countryNumber > 0) {
-//         // let copy = ("us" + imageScript[x].countryNumber + ".jpg");
-//         let copy = str.replace(imageScript[x].image, "us" + imageScript[x].countryNumber + ".jpg");
-//         console.log(copy)
-// } else {
-    
-// }};
+for (var x = 0; x < imageScript.length; x++) {
+    if (imageScript[x].countryNumber > 0) {
+        // let copy = ("us" + imageScript[x].countryNumber + ".jpg");
+        let copy = imageScript[x].image.replace(imageScript[x].image, "us" + imageScript[x].countryNumber + ".jpg");
+        console.log(copy)
+}};
 

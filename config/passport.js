@@ -2,19 +2,23 @@ const LocalStrategy = require('passport-local').Strategy;
 
 const db  = require('../models');
 
+var regex = new RegExp("^[a-z][A-Z][0-9]{8}$");
+
 module.exports = function(passport) {
+
+
     passport.serializeUser(function(user, done) {
         done(null, user.uuid);
     });
 
     passport.deserializeUser(function(uuid, done) {
         db.Accounts.findByPk(uuid).then(function(user) {
-	        if (user) {
-	            done(null, user.get());
-	        } else {
-	            done(user.errors, null);
-	        }
-	    });
+            if (user) {
+                done(null, user.get());
+            } else {
+                done(user.errors, null);
+            }
+        });
     });
 
     passport.use('local-signup', new LocalStrategy({
@@ -27,12 +31,16 @@ module.exports = function(passport) {
         db.Accounts.findOne({
             where: {email: email}
         }).then(function(user, err){
-        	if(err) {
+            if(err) {
+                console.log("err",err)
+                return done(err);
+            } 
+            if(password) {
                 console.log("err",err)
                 return done(err);
             } 
             if (user) {
-            	console.log('signupMessage', 'That email is already taken.');
+                console.log('signupMessage', 'That email is already taken.');
                 return done(null, false, req.flash('signupMessage', 'That email is already taken.'));
             } else {
                 db.Accounts.create({
@@ -46,7 +54,7 @@ module.exports = function(passport) {
                     phone: req.body.phone,
                     account_key: db.Accounts.generateHash(account_key) 
 				}).then(function(dbUser) {		    	
-	                return done(null, dbUser);
+                    return done(null, dbUser);
                 }).catch(function (err) { console.log(err);}); 
             }
         });   

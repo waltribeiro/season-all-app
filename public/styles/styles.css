@@ -122,3 +122,22 @@ label {
   text-align: left;
   /* padding-top; */
 }
+
+.bounce {
+  animation: bounce 2s infinite;
+}
+
+@keyframes bounce {
+  0%, 50%, 100% {
+    transform: translateY(0);
+  }
+  0% {
+    transform: translateX(0px);
+  }
+  50% {
+    transform: translateX(-10px);
+  }
+  100% {
+    transform: translateX(0px);
+  }
+}

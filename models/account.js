@@ -54,8 +54,10 @@ module.exports = function(sequelize, DataTypes) {
         email: {
             type: DataTypes.STRING,
             allowNull: false,
+            unique: true,
+            isEmail: {msg: "Email address must be valid"},
             validate: {
-                len: [1, 100]
+                len: [1, 30]
             }
         },
         phone: {
@@ -65,11 +67,12 @@ module.exports = function(sequelize, DataTypes) {
                 len: [10]
             }
         },
+        // this is the password field
         account_key: {
             type: DataTypes.STRING,
             required: true,
             validate: {
-                len:[8]
+                len: [8, 20]
             }
         }
 

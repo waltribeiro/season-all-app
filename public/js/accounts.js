@@ -123,8 +123,3 @@ $("#confirm-delete").on("click", function (event) {
   }
 
 });
-
-
-
-
-

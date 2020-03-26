@@ -37,7 +37,8 @@ request("http://nhlr.org/lookouts/us", (error, response, html) => {
                         if (!error && response.statusCode == 200) {
                             
                             let $ = cheerio.load(html);
-                            let location = $(".tablewhitegridnoheader tr:contains('Location') td:nth-of-type(2)").text().trim();
+                            let name = $(".tablewhitegridnoheader tr:contains('name') td:nth-of-type(2)").text().trim()
+                             let location = $(".tablewhitegridnoheader tr:contains('Location') td:nth-of-type(2)").text().trim();
                             let coordinates = $(".tablewhitegridnoheader tr:contains('Coordinates') td:nth-of-type(2)").text().trim().split(" ").join("");
                             let elevation = $(".tablewhitegridnoheader tr:contains('Elevation') td:nth-of-type(2)").text().trim();
                             let built = $(".tablewhitegridnoheader tr:contains('Built') td:nth-of-type(2)").text().trim();
