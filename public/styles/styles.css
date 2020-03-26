@@ -89,6 +89,8 @@ color: white;
 font-family: 'Ubuntu', sans-serif !important;
 position:fixed; 
 bottom:0; 
+/* height: 300px; */
+/* margin: 0px 0px 0px 0px; */
 z-index:100000;
 width: 100%;
 text-align: center;

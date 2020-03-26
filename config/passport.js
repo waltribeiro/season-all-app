@@ -6,7 +6,6 @@ var regex = new RegExp("^[a-z][A-Z][0-9]{8}$");
 
 module.exports = function(passport) {
 
-
     passport.serializeUser(function(user, done) {
         done(null, user.uuid);
     });
